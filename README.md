@@ -3,7 +3,6 @@
 
 Welcome to my GitHub repository for my Summer Internship at Insignai Technolabs! This project showcases the work done during the internship, including practical insights and hands-on experience with data analysis.
 
-![Internship Image]
 
 ## 🚀 Introduction
 **Internship Period:** 1 Month
@@ -14,7 +13,7 @@ During my one-month internship at Insignai Technolabs, I worked on an exciting d
 
 ### Week 1
 #### Orientation and Initial Research
-**Date:** [8th May 2024]
+**Date:** [1th june 2024]
 
 - **Orientation Meeting:** Introduction to Insignai Technolabs and overview of the internship tasks.
 - **Project Introduction:** Received details about the "Analysis of Pizza Sales" project.
@@ -37,7 +36,7 @@ During my one-month internship at Insignai Technolabs, I worked on an exciting d
 ### Week 2
 
 #### Model Development and Preprocessing
-**Date:** [Start Date]
+**Date:** [8th june 2024]
 
 - **Model Selection:** Decided to use various SQL queries for data analysis.
 - **Dataset Refinement:**
@@ -59,7 +58,7 @@ During my one-month internship at Insignai Technolabs, I worked on an exciting d
 ### Week 3
 
 #### Advanced Analysis and Insight Generation
-**Date:** [Start Date]
+**Date:** [15th june 2024]
 
 - **Bias Reduction:** Incorporated additional data sources to enhance the analysis.
 - **Data Reanalysis:** Performed further analysis for better insights.
@@ -79,7 +78,7 @@ During my one-month internship at Insignai Technolabs, I worked on an exciting d
 ### Week 4
 
 #### Final Analysis and Reporting
-**Date:** [Start Date]
+**Date:** [22th june 2024]
 
 - **Analysis Evaluation:** Achieved significant insights from the data.
 - **Final Adjustments:** Made final tweaks to the analysis for optimal results.
